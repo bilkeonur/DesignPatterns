@@ -1,0 +1,16 @@
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.deps.json
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.runtimeconfig.json
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.runtimeconfig.dev.json
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.dll
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/bin/Debug/net5.0/AbstractFactoryPattern.pdb
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.csproj.AssemblyReference.cache
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.AssemblyInfoInputs.cache
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.AssemblyInfo.cs
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.dll
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/refint/AbstractFactoryPattern.dll
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.pdb
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/AbstractFactoryPattern.genruntimeconfig.cache
+/Users/onur/Projects/AbstractFactoryPattern/AbstractFactoryPattern/obj/Debug/net5.0/ref/AbstractFactoryPattern.dll

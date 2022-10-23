@@ -1,9 +1,9 @@
-#Creational Patterns (Oluşturucu Tasarım Desenleri)
-##-Singleton Design Pattern
-##-Factory Design Pattern
-##-Abstract Factory Design Pattern
-##-Builder Design Pattern
-##-Prototype Design Pattern
+# Creational Patterns (Oluşturucu Tasarım Desenleri)
+## -Singleton Design Pattern
+## -Factory Design Pattern
+## -Abstract Factory Design Pattern
+## -Builder Design Pattern
+## -Prototype Design Pattern
 
 #Structural Patterns (Yapısal Tasarım Desenleri)
 -Facede Design Pattern

@@ -1,0 +1,16 @@
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.deps.json
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.json
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.dev.json
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.dll
+/Users/onur/Projects/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.pdb
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.AssemblyReference.cache
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfo.cs
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.dll
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/refint/SingletonPattern.dll
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.pdb
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.genruntimeconfig.cache
+/Users/onur/Projects/SingletonPattern/SingletonPattern/obj/Debug/net5.0/ref/SingletonPattern.dll

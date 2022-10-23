@@ -1,0 +1,16 @@
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern.deps.json
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.json
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.dev.json
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern.dll
+/Users/onur/Projects/FactoryPattern/FactoryPattern/bin/Debug/net5.0/FactoryPattern.pdb
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfo.cs
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.dll
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/refint/FactoryPattern.dll
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.pdb
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/FactoryPattern.genruntimeconfig.cache
+/Users/onur/Projects/FactoryPattern/FactoryPattern/obj/Debug/net5.0/ref/FactoryPattern.dll
